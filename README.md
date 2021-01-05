@@ -3,7 +3,7 @@
 
 Instructions
 
-1. **Important** Make sure your have submitted your GitHub username to https://signin-apd27wnqlq-uw.a.run.app/sta141b/. This will allow us to fetch your assignments later. Failing to do so will result in a zero grade of the assignments.
+1. **Important** Tell us your github account at https://signin-apd27wnqlq-uw.a.run.app/sta141b/. This will allow us to fetch your assignments later. Failing to do so will result in a zero grade of the assignments.
 1. Accept the assignment via the link: https://classroom.github.com/a/gwUD-Tih
 1. A repo containing your username `xxxx-assignment-n-USERNAME` will be created.<br>
     Due to an ongoing technical reason, the assignment will be created at https://github.com/ucdavis-sta141b-2021-winter
