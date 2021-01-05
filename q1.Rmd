@@ -9,7 +9,7 @@ options(repos = c(CRAN = "https://cran.rstudio.com"))
 It is a quick exercise for you to get familiar with RStudio, Rmarkdown and GitHub. 
 
 
-##### (a) Make sure you have R 4 or above!!
+##### (a) Make sure you have R 4.0 or above!!
 
 ```{r}
 R.version.string
